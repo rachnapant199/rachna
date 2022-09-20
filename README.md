@@ -1,2 +1,2 @@
 # rachna
-An Example 
+An Example for git commands
